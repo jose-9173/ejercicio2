@@ -8,4 +8,5 @@ an = a1 + (n - 1) * d
 
 print("El término número", n, "de la progresión aritmética es:", an)
 
-
+sn: n/2 * (a1 + an)
+print("La suma de los primeros", n, "términos de la progresión aritmética es:", sn)
